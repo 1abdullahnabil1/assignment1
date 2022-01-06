@@ -1,0 +1,141 @@
+body{
+    margin: 0px;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+section{
+    margin-bottom: 100px;
+}
+h1{
+    font-size: 55px;
+}
+.header{
+    color: orange;
+}
+.first-section {
+    display: flex;
+}
+.firstrow {
+    width: 50%;
+    padding-left: 20px;
+}
+#first-row-padding{
+    padding: 10px 60px;
+}
+.left-border{
+    border-left: 5px tomato solid;
+}
+.first-row img {
+    width: 80%;
+    padding: 10px 40px;
+}
+.link-button{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    background-color: tomato;
+    border-radius: 5px;
+}
+.second-header{
+    text-align: center;
+    font-size: 30px;
+}
+.second-section{ 
+    display: flex;
+}
+.second-row{
+    width: 30%;
+    height: 10%;
+    padding: 40px 5px;
+    margin: 10px 30px;
+}
+.second-row-img img{
+    height: 10%;
+}
+.illastration{
+    width: 50%;
+}
+#background-box1{
+    background-color: rgb(182, 156, 151);
+    padding: 15px 20px;
+    border-radius: 10px;
+    margin: 50px 50px;
+}
+#background-box2{
+    background-color: rgb(172, 209, 205);
+    padding: 10px  20px;
+    border-radius: 10px;
+    margin: 50px 10px;
+}
+#background-box3{
+    background-color: rgb(214, 214, 159);
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin: 50px 50px;
+}
+.third-section{
+    display: flex;
+}
+.second-row{
+    width: 50%;
+    padding-left: 20px;
+}
+.third-row{
+    width: 50%;
+}
+.third-row img{
+    width: 80%;
+    padding-left: 80px;
+    background-image: url( images/shapes/shape-1.png );
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
+#third-row-rightside{
+    padding: 5px 100px;
+    margin-right: 10px;
+}
+.section-four{
+    display: flex;
+}
+.fourth-row{
+    width: 50%;
+}
+
+.fourth-row img{
+    width: 80%;
+}
+#fourth-row-padding{
+    padding: 50px 20px;
+    margin: 10px 40px;
+}
+#fourth-row-img{
+    background-image: url( images/shapes/shape-1.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+#fifth-header{
+    text-align: center;
+    font-size: 40px;
+}
+.section-five{
+    display: flex;
+}
+.fifth-row{
+    width: 50%;
+}
+.fifth-row img{
+    width: 80%;
+    padding-left: 50px;
+}
+#fifth-row-right{
+    padding: 10px 80px;
+}
+.section-seven{
+
+    color: azure;
+    text-align:center ;
+    background-color: black;
+    padding: 50px 100px;
+}
